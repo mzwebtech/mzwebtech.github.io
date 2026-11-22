@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="mzGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="60%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#1e3a8a" />
+    </linearGradient>
+  </defs>
+  <polygon points="100,18 172,59 172,141 100,182 28,141 28,59" fill="#0f172a"/>
+  <polygon points="100,24 167,62 167,138 100,176 33,138 33,62" fill="none" stroke="url(#mzGrad)" stroke-width="4"/>
+  <path d="M62 136 L62 66 L100 108 L138 66 L138 136" fill="none" stroke="#ffffff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M82 122 L118 122" fill="none" stroke="#38bdf8" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="100" cy="8" r="8" fill="#38bdf8"/>
+</svg>
